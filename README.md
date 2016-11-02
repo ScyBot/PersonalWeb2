@@ -21,8 +21,8 @@ Do the following to complete this assignment:
         * A [list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
         * An [anchor](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
     * Proper structure: 
-        * Using [<div>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-        * Using [<span>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+        * Using [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+        * Using [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
 3. Edit `style.css` to meet these requirement:
     * Use CSS Selectors:
         * ID selectors
