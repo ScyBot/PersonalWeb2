@@ -16,7 +16,7 @@ Do the following to complete this assignment:
     * A starting `index.html` file that you will edit as described below
 2. Edit `index.html` to your liking, provided it contains:
     * At least one of these:
-        * An [image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)>
+        * An [image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
         * A [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
         * A [list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
         * An [anchor](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
