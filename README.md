@@ -37,7 +37,7 @@ Do the following to complete this assignment:
 5. Bonus if you make the page visually appealing, and/or use different fonts 
 3. Test your project on your local machine to make sure that when someone goes to your main page, it displays correctly.
 4. Deploy your project to Heroku.
-5. Ensure that your project has the proper naming scheme (`yourGitHubUsername-cs4241-a2`) so we can find it.
+5. Ensure that your project has the proper naming scheme (`cs4241-a2-yourGitHubUsername`) so we can find it.
 
 Resources
 ---
