@@ -1,7 +1,7 @@
 Assignment 2 - Basics HTML and CSS
 ===
 
-Due Nov 9
+Due Nov 7
 
 This assignment introduces you to the basics of HTML and CSS, two fundamentals that compose a website. You will learn to use different HTML element, and style them up with CSS.
 
