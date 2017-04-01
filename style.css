@@ -1,0 +1,45 @@
+/*Style your own assignment! This is fun! */
+
+body {
+	background-color: black;
+	padding-right: 200px; 
+	padding-left: 200px;
+}
+
+.header {
+	background-color: #787878;
+	color: #59D200;
+	font-family: "Modern";
+}
+
+.content {
+	background-color: #787878;
+	color: white;
+	font-size: 20px;
+	font-family: lucida console;
+	padding-right: 0px; 
+	padding-left: 0px; 
+	margin-left: 0px; 
+	border-right-width: 600px; 
+	border-left-width: 600px;
+}
+
+.message {
+	color: red;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+li span {
+	color: #59D200;
+	(video)https://www.youtube.com/watch?v=M5QGkOGZubQ;
+}
+
+.name {
+	font-size: 20pt;
+}
+
+
+
+
+
